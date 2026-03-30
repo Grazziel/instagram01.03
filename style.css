@@ -1,0 +1,33 @@
+#html, body {
+    margin: 0% auto;
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+#box1 {
+  margin: auto;
+    width: 500px;
+    background-color: white;
+    border: 1px solid;
+}
+
+#box1 img {
+    width: 500px;
+    height: auto;
+    padding: auto;
+}
+.titulo-post {
+    margin: auto;
+    width: 500px;
+    background-color: white;
+    border: 1px solid;
+    justify-content: space-between;
+    display: flex;
+}
+.card {
+    margin: 50px;
+    padding: 20px
+}
